@@ -71,7 +71,7 @@ export const questions: QuizQuestion[] = [
   }
   {
     question: "blabla",
-    icon: "",
+    icon: "🛍️",
     options: [
       { text: "չեմ ուտում", co2Value: 0 },
       { text: "1-2 անգամ", co2Value: 500 },
