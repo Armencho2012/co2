@@ -68,14 +68,5 @@ export const questions: QuizQuestion[] = [
       { text: "1-2 անգամ", co2Value: 500 },
       { text: "3-5 անգամ", co2Value: 17000 }
     ]
-  },
-  {
-    question: "blabla",
-    icon: "🛍️",
-    options: [
-      { text: "չեմ ուտում", co2Value: 0 },
-      { text: "1-2 անգամ", co2Value: 500 },
-      { text: "3-5 անգամ", co2Value: 17000 }
-    ]
   }
 ];
