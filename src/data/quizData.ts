@@ -90,7 +90,7 @@ export const questions: QuizQuestion[] = [
   ]
 },
 {
-  question: "Օրվա ընթացքում վիդեո եք դիտում՝",
+  question: "Օրվա ընթացքում տեսանյութ դիտում եք՝",
   icon: "📺",
   options: [
     { text: "Չեմ դիտում", co2Value: 0 },
