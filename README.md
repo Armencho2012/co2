@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your CO2 checking project
 
 ## Project info
 
